@@ -1,7 +1,7 @@
-nombre ,Altura cm,peso,Column5,Column6
-3,198,52.31,jorge,1
-2,193,53.53,juan,2
-2,198,95.46,danilo,3
+nombre ,Altura cm,peso,Column5
+3,198,52.31,,
+2,193,53.53,,
+2,198,95.46,,
 2,190,75.1,,
 2,197,95.91,,
 3,157,88.6,,
